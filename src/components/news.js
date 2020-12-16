@@ -10,7 +10,7 @@ export default class News extends Component {
             news: [],
             key: "4aabba530384428b839feb21cb30101e",
             country: "us",
-            url: "http://newsapi.org/v2/top-headlines",
+            url: "https://newsapi.org/v2/top-headlines",
             page: 0,
             subset: [],
         }
